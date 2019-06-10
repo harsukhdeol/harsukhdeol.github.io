@@ -391,11 +391,11 @@ h3 {
 }
 
 #blob {
-  background-image: url("_img/blob.png");
+  background-image: url("_img/blob.PNG");
 }
 
 #first {
-  background-image: url("_img/firstweb.png");
+  background-image: url("_img/firstweb.PNG");
 }
 
 #mobile {
@@ -807,7 +807,8 @@ span {
   -webkit-transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
   transition: background-color 0.5s, transform 0.5s ease-out;
   transition: background-color 0.5s, transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
-  transition: background-color 0.5s, transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
+  transition: background-color 0.5s, transform 0.5s ease-out,
+ -webkit-transform 0.5s ease-out;
 }
 
 .email {
