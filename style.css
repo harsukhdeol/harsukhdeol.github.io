@@ -399,7 +399,7 @@ h3 {
 }
 
 #mobile {
-  background-image: url("/_img/mobile.jpg");
+  background-image: url("../_img/mobile.jpg");
 }
 
 #statue {
