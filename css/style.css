@@ -391,11 +391,11 @@ h3 {
 }
 
 #blob {
-  background-image: url("../imgs/2.jpg");
+  background-image: url("../imgs/blob.png");
 }
 
 #first {
-  background-image: url("../_img/firstweb.PNG");
+  background-image: url("../imgs/firstweb.png");
 }
 
 #mobile {
@@ -408,12 +408,12 @@ h3 {
 }
 
 #win {
-  background-image: url("/_img/win.jpg");
+  background-image: url("../imgs/win.jpg");
   background-position: 50% 20%;
 }
 
 #drop {
-  background-image: url("/_img/drop.png");
+  background-image: url("../imgs/drop.png");
 }
 
 #services {
@@ -697,7 +697,7 @@ span {
 }
 
 #web .img {
-  background-image: url("/_img/checkout.jpg");
+  background-image: url("../imgs/checkout.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -710,7 +710,7 @@ span {
 }
 
 #art .img {
-  background-image: url("/_img/landing.jpg");
+  background-image: url("../imgs/landing.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -723,7 +723,7 @@ span {
 }
 
 #graphic .img {
-  background-image: url("https://harsukhdeol.github.io/portfolio/_img/FLOWERPOWER.jpg");
+  background-image: url("../imgs/FLOWERPOWER.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
