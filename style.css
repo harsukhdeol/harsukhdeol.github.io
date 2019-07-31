@@ -391,29 +391,29 @@ h3 {
 }
 
 #blob {
-  background-image: url("_img/blob.PNG");
+  background-image: url("/_img/blob.PNG");
 }
 
 #first {
-  background-image: url("_img/firstweb.PNG");
+  background-image: url("/_img/firstweb.PNG");
 }
 
 #mobile {
-  background-image: url("_img/mobile.jpg");
+  background-image: url("/_img/mobile.jpg");
 }
 
 #statue {
   background-position: 50% 30%;
-  background-image: url("_img/statue.jpg");
+  background-image: url("/_img/statue.jpg");
 }
 
 #win {
-  background-image: url("_img/win.jpg");
+  background-image: url("/_img/win.jpg");
   background-position: 50% 20%;
 }
 
 #drop {
-  background-image: url("_img/drop.png");
+  background-image: url("/_img/drop.png");
 }
 
 #services {
@@ -697,7 +697,7 @@ span {
 }
 
 #web .img {
-  background-image: url("_img/checkout.jpg");
+  background-image: url("/_img/checkout.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -710,7 +710,7 @@ span {
 }
 
 #art .img {
-  background-image: url("_img/landing.jpg");
+  background-image: url("/_img/landing.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -723,7 +723,7 @@ span {
 }
 
 #graphic .img {
-  background-image: url("_img/FLOWERPOWER.jpg");
+  background-image: url("/_img/FLOWERPOWER.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
