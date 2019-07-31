@@ -391,7 +391,7 @@ h3 {
 }
 
 #blob {
-  background-image: url("/_img/blob.PNG");
+  background-image: url("_img/blob.PNG");
 }
 
 #first {
@@ -723,7 +723,7 @@ span {
 }
 
 #graphic .img {
-  background-image: url("/_img/FLOWERPOWER.jpg");
+  background-image: url("https://harsukhdeol.github.io/portfolio/_img/FLOWERPOWER.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
