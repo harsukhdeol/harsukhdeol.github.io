@@ -103,7 +103,7 @@ content.addEventListener("mousewheel", function(e) {
   }
 });
 
-projects.addEventListener("mousewheel", function(e) {
+/*projects.addEventListener("mousewheel", function(e) {
   if (i >= -500 && i <= 100) {
     menu.style.transform = ` translateX(${-i *
       1.73}px) translateY(${i}px)  rotate(60deg) skewY(-30deg) scaleY(0.864)`;
@@ -113,7 +113,9 @@ projects.addEventListener("mousewheel", function(e) {
   } else {
     i = -500;
   }
-});
+});*/
+projects.addEventListener("mouseover", function(e){
+    scroll(e);});
 // When the user scrolls the page, execute myFunction
 content.onscroll = function() {
   myFunction();
