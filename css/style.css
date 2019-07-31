@@ -391,11 +391,11 @@ h3 {
 }
 
 #blob {
-  background-image: url("imgs/2.jpg");
+  background-image: url("../imgs/2.jpg");
 }
 
 #first {
-  background-image: url("/_img/firstweb.PNG");
+  background-image: url("../_img/firstweb.PNG");
 }
 
 #mobile {
@@ -404,7 +404,7 @@ h3 {
 
 #statue {
   background-position: 50% 30%;
-  background-image: url("/_img/statue.jpg");
+  background-image: url("../statue.jpg");
 }
 
 #win {
