@@ -399,12 +399,12 @@ h3 {
 }
 
 #mobile {
-  background-image: url("../_img/mobile.jpg");
+  background-image: url("../imgs/mobile.jpg");
 }
 
 #statue {
   background-position: 50% 30%;
-  background-image: url("../statue.jpg");
+  background-image: url("../imgs/statue.jpg");
 }
 
 #win {
